@@ -34,6 +34,8 @@
 ## 🤗 欢迎贡献
 
 如果你也有类似的数据并愿意共享，欢迎提 PR 或联系我一起完善这个 benchmark！
-
+## 🤗 麦当劳支持    
+数据采集与处理还是需要花费一些时间     
+<img width="307" alt="image" src="https://github.com/user-attachments/assets/01ae0fbb-6f6b-48bc-a651-e2fc4ae6af93">
 ---
 
